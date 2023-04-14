@@ -1,0 +1,3 @@
+LUZ;LED GIROSCOPICA;15;
+car;very fast;12;
+computador;dell;10000;
